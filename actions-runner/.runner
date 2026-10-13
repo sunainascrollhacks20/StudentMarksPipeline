@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "SUNAINA",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus25.actions.githubusercontent.com/7YHn9jLhE0D4aDIptbHsGcbQrGFsslOd8kcuVQ951spb4EFC7Z/",
+  "gitHubUrl": "https://github.com/sunainascrollhacks20/StudentMarksPipeline",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
